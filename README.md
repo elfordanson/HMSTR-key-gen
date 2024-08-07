@@ -1,4 +1,4 @@
-# HamsterKeyGen
+# HMSTR Key Gen
 
 This is an asynchronous Python script to generate Hamster Kombat Keys.
 
